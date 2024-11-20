@@ -1,6 +1,6 @@
 
 
-## Interests
+## Technologies of Interest
 [![AWS](https://skillicons.dev/icons?i=aws "AWS")](https://docs.aws.amazon.com/general/latest/gr/Welcome.html)
 [![Azure](https://skillicons.dev/icons?i=azure "Azure")]([https://docs.aws.amazon.com/general/latest/gr/Welcome.html](https://learn.microsoft.com/en-us/azure/?product=popular))
 [![Bash](https://skillicons.dev/icons?i=bash "Bash")](https://www.gnu.org/software/bash/manual/bash.html)
@@ -26,8 +26,8 @@
 [![WebAssembly](https://skillicons.dev/icons?i=wasm "WebAssembly")](https://developer.mozilla.org/en-US/docs/WebAssembly)
 [![Zig](https://skillicons.dev/icons?i=zig "Zig")](https://ziglang.org/documentation/master/)
 
-## StackExchange
-[![StackExchange](https://stackexchange.com/users/flair/102683.png "Profile for Michael Jackson on Stack Exchange, a network of free, community-driven Q&amp;A sites")](https://stackexchange.com/users/102683)
-
 ## GitHub Issues of Interest 
 [ziglang/zig async/await/suspend/resume #6025](https://github.com/ziglang/zig/issues/6025)
+
+## StackExchange
+[![StackExchange](https://stackexchange.com/users/flair/102683.png "Profile for Michael Jackson on Stack Exchange, a network of free, community-driven Q&amp;A sites")](https://stackexchange.com/users/102683)
