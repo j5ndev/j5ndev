@@ -1,16 +1,25 @@
-## Hi there 👋
-
-<!--
-**j5ndev/j5ndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+[![AWS](https://skillicons.dev/icons?i=aws "AWS")](https://docs.aws.amazon.com/general/latest/gr/Welcome.html)
+[![Azure](https://skillicons.dev/icons?i=azure "Azure")]([https://docs.aws.amazon.com/general/latest/gr/Welcome.html](https://learn.microsoft.com/en-us/azure/?product=popular))
+[![Bash](https://skillicons.dev/icons?i=bash "Bash")](https://www.gnu.org/software/bash/manual/bash.html)
+[![C](https://skillicons.dev/icons?i=c "C")](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+[![CSS](https://skillicons.dev/icons?i=css "CSS")](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+[![Flutter](https://skillicons.dev/icons?i=flutter "Flutter")](https://docs.flutter.dev/)
+[![Git](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com/docs)
+[![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://docs.github.com)
+[![Go](https://skillicons.dev/icons?i=go "Go")](https://go.dev/doc/)
+[![Grafana](https://skillicons.dev/icons?i=grafana "Grafana")](https://grafana.com/docs/)
+[![GraphQL](https://skillicons.dev/icons?i=graphql "GraphQL")](https://graphql.org/learn/)
+[![HTML](https://skillicons.dev/icons?i=html "HTML")](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![htmx](https://skillicons.dev/icons?i=htmx "htmx")](https://htmx.org/)
+[![JS](https://skillicons.dev/icons?i=js "JS")](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes "Kubernetes")](https://kubernetes.io/docs/reference/)
+[![Linux](https://skillicons.dev/icons?i=linux "Linux")](https://www.kernel.org/doc/html/latest/)
+[![Lit](https://skillicons.dev/icons?i=lit "Lit")](https://lit.dev/learn/)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://nodejs.org)
+[![Python](https://skillicons.dev/icons?i=py "Python")](URL)
+[![Terraform](https://skillicons.dev/icons?i=terraform "Terraform")](URL)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu "Ubuntu")](URL)
+[![VSCode](https://skillicons.dev/icons?i=vscode "VSCode")](URL)
+[![WASM](https://skillicons.dev/icons?i=wasm "WASM")](URL)
+[![Zig](https://skillicons.dev/icons?i=zig "Zig")](URL)
