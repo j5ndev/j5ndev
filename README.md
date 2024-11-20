@@ -7,6 +7,7 @@
 [![C](https://skillicons.dev/icons?i=c "C")](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 [![CSS](https://skillicons.dev/icons?i=css "CSS")](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 [![Flutter](https://skillicons.dev/icons?i=flutter "Flutter")](https://docs.flutter.dev/)
+[<img src="images/flyio.png" alt="Fly.io" title="Fly.io" width="48">](https://fly.io/docs/)
 [![Git](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com/docs)
 [![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://docs.github.com)
 [![Go](https://skillicons.dev/icons?i=go "Go")](https://go.dev/doc/)
