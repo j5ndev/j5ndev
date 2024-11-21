@@ -21,6 +21,7 @@
 [![Lit](https://skillicons.dev/icons?i=lit "Lit")](https://lit.dev/learn/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://nodejs.org)
 [![Python](https://skillicons.dev/icons?i=py "Python")](https://www.python.org/doc)
+[<img src="images/raylib_logo_animation.gif" alt="raylib" title="raylib" width="48">](https://github.com/raysan5/raylib)
 [![Terraform](https://skillicons.dev/icons?i=terraform "Terraform")](https://developer.hashicorp.com/terraform/docs)
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu "Ubuntu")](https://docs.ubuntu.com/)
 [![VSCode](https://skillicons.dev/icons?i=vscode "VSCode")](https://code.visualstudio.com/Docs)
