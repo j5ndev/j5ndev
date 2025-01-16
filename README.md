@@ -5,6 +5,7 @@
 * [Zig-based alternative to linker scripts](https://github.com/ziglang/zig/issues/3206)
 
 ## Quick Reference
-* [Zig - Learn](https://ziglang.org/learn/)
-  * [Language Reference](https://ziglang.org/documentation/master/)
-  * [Standard Library](https://ziglang.org/documentation/master/std/)
+### Zig
+  * [Learn](https://ziglang.org/learn/)
+    * [Language Reference](https://ziglang.org/documentation/master/)
+    * [Standard Library](https://ziglang.org/documentation/master/std/)
