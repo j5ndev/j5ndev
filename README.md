@@ -9,3 +9,4 @@
   * [Learn](https://ziglang.org/learn/)
     * [Language Reference](https://ziglang.org/documentation/master/)
     * [Standard Library](https://ziglang.org/documentation/master/std/)
+  * [zig-patterns](https://github.com/pepomija/zig-patterns)
