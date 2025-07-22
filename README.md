@@ -2,7 +2,8 @@
 
 ## GitHub Issues of Interest 
 * [Proposal: stackless coroutines as low-level primitives #23446](https://github.com/ziglang/zig/issues/23446)
-* [Zig-based alternative to linker scripts](https://github.com/ziglang/zig/issues/3206)
+* [Proposal: restricted function types #23367](https://github.com/ziglang/zig/issues/23367)
+* [Zig-based alternative to linker scripts #3206](https://github.com/ziglang/zig/issues/3206)
 
 ## Reference
 ### Zig
