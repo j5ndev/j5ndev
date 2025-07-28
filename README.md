@@ -15,3 +15,4 @@
   * [Asynchrony is not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
   * [Ziggit](https://ziggit.dev/)
   * [r/Zig](https://www.reddit.com/r/Zig/)
+  * [Zig Common Tasks](https://renatoathaydes.github.io/zig-common-tasks/)
