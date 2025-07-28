@@ -3,6 +3,7 @@
 ## GitHub Issues of Interest 
 * [Proposal: stackless coroutines as low-level primitives #23446](https://github.com/ziglang/zig/issues/23446)
 * [Proposal: restricted function types #23367](https://github.com/ziglang/zig/issues/23367)
+* [safe recursion #1006](https://github.com/ziglang/zig/issues/1006)
 * [Zig-based alternative to linker scripts #3206](https://github.com/ziglang/zig/issues/3206)
 
 ## Reference
@@ -12,3 +13,5 @@
     * [Standard Library](https://ziglang.org/documentation/master/std/)
   * [zig-patterns](https://github.com/pepomija/zig-patterns)
   * [Asynchrony is not Concurrency](https://kristoff.it/blog/asynchrony-is-not-concurrency/)
+  * [Ziggit](https://ziggit.dev/)
+  * [r/Zig](https://www.reddit.com/r/Zig/)
